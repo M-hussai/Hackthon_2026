@@ -1,0 +1,10 @@
+# Ignore dependencies
+node_modules/
+Backend/node_modules/
+
+# Ignore sensitive secrets
+.env
+Backend/.env
+
+# Environment / OS files
+.DS_Store
